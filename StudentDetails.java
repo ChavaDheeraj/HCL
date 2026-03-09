@@ -15,7 +15,7 @@ public class StudentDetails {
 
         System.out.println("Enter Age:");
         age = sc.nextInt();
-        sc.nextLine(); // consume newline
+        sc.nextLine();
 
         System.out.println("Enter Course:");
         course = sc.nextLine();
